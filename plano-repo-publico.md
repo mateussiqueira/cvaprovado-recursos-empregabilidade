@@ -53,6 +53,8 @@ ats, career, curriculo, empregabilidade, job-search, recrutamento, resume, vagas
 - `checklist-linkedin.md`
 - `como-pedir-feedback-de-cv.md`
 - `exemplo-resumo-profissional.md`
+- `indice-links-comunidade.md`
+- `LICENCA-USO.md`
 - `matriz-de-aderencia-vaga.md`
 - `mensagens-para-pedir-indicacao.md`
 - `modelo-curriculo-anonimizado.md`
@@ -68,6 +70,7 @@ ats, career, curriculo, empregabilidade, job-search, recrutamento, resume, vagas
 - `roteiro-follow-up-processo-seletivo.md`
 - `guia-portifolio-iniciante.md`
 - `checklist-recrutador-comunidade.md`
+- `guia-postagem-comunidades.md`
 
 ## Regras de publicacao
 
@@ -75,6 +78,7 @@ ats, career, curriculo, empregabilidade, job-search, recrutamento, resume, vagas
 - Manter o repositorio publico sem dados pessoais.
 - Usar UTM em links para medir trafego organico.
 - Nao usar o repositorio como propaganda pura; cada arquivo precisa resolver uma dor real.
+- Usar `indice-links-comunidade.md` para escolher o link mais especifico antes de responder em comunidades.
 
 ## Texto para primeiro commit
 
@@ -86,6 +90,16 @@ Add initial open employability resources
 
 ```text
 Add community feedback and LinkedIn resources
+```
+
+```text
+Add interview and referral resources
+```
+
+## Texto para proxima expansao
+
+```text
+Add usage license and community link index
 ```
 
 ## Handoff para publicacao
