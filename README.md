@@ -18,14 +18,31 @@ https://www.cvaprovado.com/?utm_source=github&utm_medium=open_resource&utm_campa
 ## Recursos prontos
 
 - `checklist-ats.md`: checklist simples para revisar um curriculo antes de aplicar.
+- `checklist-linkedin.md`: checklist para deixar o LinkedIn mais claro para recrutadores.
+- `como-pedir-feedback-de-cv.md`: guia para pedir feedback publico sem expor dados pessoais.
 - `template-vaga-verificada.md`: modelo de vaga para recrutadores publicarem na comunidade.
 - `guia-anti-golpe-vagas.md`: sinais de alerta para candidatos evitarem vagas falsas ou abusivas.
+- `modelo-curriculo-anonimizado.md`: modelo seguro para pedir feedback em comunidade.
+- `perguntas-para-recrutadores.md`: perguntas para entender vaga, processo e riscos antes de aplicar.
 - `plano-repo-publico.md`: plano de publicacao, descricao do repo e proximos arquivos.
+- `roteiro-plantao-curriculo.md`: roteiro para organizar revisoes de curriculo em comunidade.
 
 Repositorio publico:
 
 ```text
 https://github.com/mateussiqueira/cvaprovado-recursos-empregabilidade
+```
+
+Homepage do repo:
+
+```text
+https://www.cvaprovado.com/?utm_source=github&utm_medium=open_resource&utm_campaign=organic_acquisition_2026
+```
+
+Topicos GitHub:
+
+```text
+ats, career, curriculo, empregabilidade, job-search, recrutamento, resume, vagas
 ```
 
 ## Posicionamento

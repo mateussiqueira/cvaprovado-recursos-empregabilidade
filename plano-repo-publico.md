@@ -29,30 +29,40 @@ Checklists e templates abertos para curriculo ATS, vagas verificadas e busca de 
 Topicos GitHub sugeridos:
 
 ```text
-curriculo
 ats
-empregabilidade
-vagas
-recrutamento
 career
-resume
+curriculo
+empregabilidade
 job-search
+recrutamento
+resume
+vagas
+```
+
+Topicos publicados:
+
+```text
+ats, career, curriculo, empregabilidade, job-search, recrutamento, resume, vagas
 ```
 
 ## Arquivos iniciais
 
 - `README.md`
 - `checklist-ats.md`
+- `checklist-linkedin.md`
+- `como-pedir-feedback-de-cv.md`
+- `modelo-curriculo-anonimizado.md`
+- `perguntas-para-recrutadores.md`
 - `template-vaga-verificada.md`
 - `guia-anti-golpe-vagas.md`
+- `roteiro-plantao-curriculo.md`
 
 ## Proximos arquivos
 
-- `modelo-curriculo-anonimizado.md`
-- `checklist-linkedin.md`
-- `roteiro-plantao-curriculo.md`
-- `perguntas-para-recrutadores.md`
-- `como-pedir-feedback-de-cv.md`
+- `exemplo-resumo-profissional.md`
+- `checklist-entrevista-triagem.md`
+- `matriz-de-aderencia-vaga.md`
+- `mensagens-para-pedir-indicacao.md`
 
 ## Regras de publicacao
 
