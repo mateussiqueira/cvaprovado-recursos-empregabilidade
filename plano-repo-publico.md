@@ -1,0 +1,76 @@
+# Plano para repositorio publico
+
+Nome sugerido:
+
+```text
+cvaprovado-recursos-empregabilidade
+```
+
+URL publicada:
+
+```text
+https://github.com/mateussiqueira/cvaprovado-recursos-empregabilidade
+```
+
+Alternativas:
+
+```text
+cvaprovado-open-resources
+cvaprovado-career-resources
+recursos-empregabilidade-cvaprovado
+```
+
+Descricao curta:
+
+```text
+Checklists e templates abertos para curriculo ATS, vagas verificadas e busca de emprego mais segura.
+```
+
+Topicos GitHub sugeridos:
+
+```text
+curriculo
+ats
+empregabilidade
+vagas
+recrutamento
+career
+resume
+job-search
+```
+
+## Arquivos iniciais
+
+- `README.md`
+- `checklist-ats.md`
+- `template-vaga-verificada.md`
+- `guia-anti-golpe-vagas.md`
+
+## Proximos arquivos
+
+- `modelo-curriculo-anonimizado.md`
+- `checklist-linkedin.md`
+- `roteiro-plantao-curriculo.md`
+- `perguntas-para-recrutadores.md`
+- `como-pedir-feedback-de-cv.md`
+
+## Regras de publicacao
+
+- Repositorio publicado inicialmente em `mateussiqueira`; transferir para uma organizacao `cvaprovado` ou conta de marca quando ela existir.
+- Manter o repositorio publico sem dados pessoais.
+- Usar UTM em links para medir trafego organico.
+- Nao usar o repositorio como propaganda pura; cada arquivo precisa resolver uma dor real.
+
+## Texto para primeiro commit
+
+```text
+Add initial open employability resources
+```
+
+## Handoff para publicacao
+
+1. Repo publico criado.
+2. Arquivos iniciais publicados na raiz do repo.
+3. Revisar README e links UTM depois do primeiro uso em comunidade.
+4. Publicar primeiro post no Substack apontando para o repo.
+5. Usar o repo como apoio em respostas manuais no Reddit/Discord/TabNews quando permitido.
