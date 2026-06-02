@@ -18,10 +18,14 @@ https://www.cvaprovado.com/?utm_source=github&utm_medium=open_resource&utm_campa
 ## Recursos prontos
 
 - `checklist-ats.md`: checklist simples para revisar um curriculo antes de aplicar.
+- `checklist-entrevista-triagem.md`: preparacao para entrevista inicial com recrutador.
 - `checklist-linkedin.md`: checklist para deixar o LinkedIn mais claro para recrutadores.
 - `como-pedir-feedback-de-cv.md`: guia para pedir feedback publico sem expor dados pessoais.
+- `exemplo-resumo-profissional.md`: exemplos de resumo profissional menos generico.
 - `template-vaga-verificada.md`: modelo de vaga para recrutadores publicarem na comunidade.
 - `guia-anti-golpe-vagas.md`: sinais de alerta para candidatos evitarem vagas falsas ou abusivas.
+- `matriz-de-aderencia-vaga.md`: matriz para comparar requisitos da vaga com evidencias reais.
+- `mensagens-para-pedir-indicacao.md`: modelos para pedir indicacao com contexto e respeito.
 - `modelo-curriculo-anonimizado.md`: modelo seguro para pedir feedback em comunidade.
 - `perguntas-para-recrutadores.md`: perguntas para entender vaga, processo e riscos antes de aplicar.
 - `plano-repo-publico.md`: plano de publicacao, descricao do repo e proximos arquivos.

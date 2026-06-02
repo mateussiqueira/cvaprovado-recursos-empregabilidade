@@ -49,8 +49,12 @@ ats, career, curriculo, empregabilidade, job-search, recrutamento, resume, vagas
 
 - `README.md`
 - `checklist-ats.md`
+- `checklist-entrevista-triagem.md`
 - `checklist-linkedin.md`
 - `como-pedir-feedback-de-cv.md`
+- `exemplo-resumo-profissional.md`
+- `matriz-de-aderencia-vaga.md`
+- `mensagens-para-pedir-indicacao.md`
 - `modelo-curriculo-anonimizado.md`
 - `perguntas-para-recrutadores.md`
 - `plano-repo-publico.md`
@@ -60,10 +64,10 @@ ats, career, curriculo, empregabilidade, job-search, recrutamento, resume, vagas
 
 ## Proximos arquivos
 
-- `exemplo-resumo-profissional.md`
-- `checklist-entrevista-triagem.md`
-- `matriz-de-aderencia-vaga.md`
-- `mensagens-para-pedir-indicacao.md`
+- `controle-candidaturas.md`
+- `roteiro-follow-up-processo-seletivo.md`
+- `guia-portifolio-iniciante.md`
+- `checklist-recrutador-comunidade.md`
 
 ## Regras de publicacao
 
