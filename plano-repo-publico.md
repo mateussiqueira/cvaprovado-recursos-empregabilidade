@@ -53,6 +53,7 @@ ats, career, curriculo, empregabilidade, job-search, recrutamento, resume, vagas
 - `como-pedir-feedback-de-cv.md`
 - `modelo-curriculo-anonimizado.md`
 - `perguntas-para-recrutadores.md`
+- `plano-repo-publico.md`
 - `template-vaga-verificada.md`
 - `guia-anti-golpe-vagas.md`
 - `roteiro-plantao-curriculo.md`
@@ -75,6 +76,12 @@ ats, career, curriculo, empregabilidade, job-search, recrutamento, resume, vagas
 
 ```text
 Add initial open employability resources
+```
+
+## Texto para expansao publicada
+
+```text
+Add community feedback and LinkedIn resources
 ```
 
 ## Handoff para publicacao
